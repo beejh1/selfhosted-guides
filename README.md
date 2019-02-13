@@ -9,7 +9,7 @@ Please feel free to contribute any useful guides you have found, always ensure t
 See [Contributing](.github/CONTRIBUTING.md).
 
 --------------------
-Please note this list is in its absaloute infancy and is currently not ordered or pretty, I am working on it! Suggestions very much welcome :)
+Please note this list is in its absolute infancy and is currently not ordered or pretty, I am working on it! Suggestions very much welcome :)
 
 - [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - [/u/imthenachoman](https://www.reddit.com/user/imthenachoman) Activly updated
 - [Managing a Traefix web-server with Docker](https://skyenet.tech/traefik-and-docker/) - [/u/SkyeNetTech](https://www.reddit.com/user/SkyeNetTech) Jan 2019
